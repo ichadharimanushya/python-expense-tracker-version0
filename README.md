@@ -38,6 +38,7 @@ Future improvements:
 - csv/txt report export
 - GUI version using Tkinter or PyQt
 - Data visualization using Matplotlib
+- Better error handling
 
 About:<br>
 Built as a part of my Python learning journey for my bachelors in technology in CSE.<br>
