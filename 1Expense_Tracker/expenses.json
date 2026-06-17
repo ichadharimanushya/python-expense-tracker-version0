@@ -1,0 +1,56 @@
+{
+    "users": {
+        "defaultuser": {
+            "expenses": [
+                {
+                    "amount": 100.0,
+                    "category": "food",
+                    "date": "2026-06-16"
+                },
+                {
+                    "amount": 2300.0,
+                    "category": "hotel",
+                    "date": "2026-06-16"
+                },
+                {
+                    "amount": 100.0,
+                    "category": "food",
+                    "date": "2026-06-16"
+                }
+            ]
+        },
+        "parth": {
+            "expenses": [
+                {
+                    "amount": 15000.0,
+                    "category": "smartphone",
+                    "date": "2026-06-16"
+                },
+                {
+                    "amount": 60000.0,
+                    "category": "vivobook",
+                    "date": "2026-06-16"
+                },
+                {
+                    "amount": 50000.0,
+                    "category": "counsellling",
+                    "date": "2026-06-16"
+                },
+                {
+                    "amount": 1100000.0,
+                    "category": "college",
+                    "date": "2026-06-16"
+                }
+            ]
+        },
+        "ishaan": {
+            "expenses": [
+                {
+                    "amount": 10000.0,
+                    "category": "salary",
+                    "date": "2026-06-16"
+                }
+            ]
+        }
+    }
+}
