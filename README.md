@@ -1,4 +1,4 @@
-A terminal based tracker using python (for learning purposes)
+A terminal based expense tracker using python (for learning purposes)
 
 Features: 
 - Add expenses
